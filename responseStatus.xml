@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.6.0_24" class="java.beans.XMLDecoder">
+ <object class="org.ncibi.ws.Response">
+  <object class="org.ncibi.ws.ResponseStatus">
+   <object class="java.util.HashMap">
+    <void method="put">
+     <string>ld</string>
+     <string>1kb</string>
+    </void>
+    <void method="put">
+     <string>email</string>
+     <string>snehal@med.umich.edu</string>
+    </void>
+    <void method="put">
+     <string>outname</string>
+     <string>nov28test9</string>
+    </void>
+    <void method="put">
+     <string>sglist</string>
+     <string>hg19</string>
+    </void>
+    <void method="put">
+     <string>method</string>
+     <string>chipenrich</string>
+    </void>
+    <void method="put">
+     <string>uploadfile</string>
+     <string>/home/snehal/workspace2/LRPathBranch/FileStore/nov28test9/E2A.txt</string>
+    </void>
+    <void method="put">
+     <string>outpath</string>
+     <string>/home/snehal/workspace2/LRPathBranch/FileStore/nov28test9/</string>
+    </void>
+    <void method="put">
+     <string>slist</string>
+     <string>[Ljava.lang.String;@163c2261</string>
+    </void>
+    <void method="put">
+     <string>rc</string>
+     <string>24</string>
+    </void>
+    <void method="put">
+     <string>ismappable</string>
+     <string>T</string>
+    </void>
+    <void method="put">
+     <string>qc</string>
+     <string>T</string>
+    </void>
+   </object>
+   <boolean>true</boolean>
+   <string>Success</string>
+  </object>
+  <string>fde78a15-017d-4ee5-a633-dbfd1ab3ff4a</string>
+ </object>
+</java>

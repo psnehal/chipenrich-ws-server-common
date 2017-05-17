@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.6.0_24" class="java.beans.XMLDecoder">
+ <object class="org.ncibi.chipenrich.ChipEnrichInputArguments">
+  <void property="email">
+   <string>snehal@med.umich.edu</string>
+  </void>
+  <void property="isMappable">
+   <string>T</string>
+  </void>
+  <void property="ld">
+   <string>1kb</string>
+  </void>
+  <void property="method">
+   <string>chipenrich</string>
+  </void>
+  <void property="outName">
+   <string>nov30test2</string>
+  </void>
+  <void property="outPath">
+   <string>/home/snehal/workspace2/LRPathBranch/FileStore/nov30test2/</string>
+  </void>
+  <void property="qc">
+   <string>T</string>
+  </void>
+  <void property="rc">
+   <string>24</string>
+  </void>
+  <void property="sgList">
+   <string>hg19</string>
+  </void>
+  <void property="sgSetList">
+   <array class="java.lang.String" length="2">
+    <void index="0">
+     <string>biocarta_pathway</string>
+    </void>
+    <void index="1">
+     <string>ehmn_pathway_gene</string>
+    </void>
+   </array>
+  </void>
+  <void property="uploadFile">
+   <string>/home/snehal/workspace2/LRPathBranch/FileStore/nov30test2/E2A.txt</string>
+  </void>
+ </object>
+</java>

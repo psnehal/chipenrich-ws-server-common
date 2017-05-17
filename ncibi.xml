@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.6.0_24" class="java.beans.XMLDecoder">
+ <object class="org.ncibi.ws.Response">
+  <object class="org.ncibi.ws.ResponseStatus">
+   <object class="java.util.Collections" method="emptyMap"/>
+   <boolean>true</boolean>
+   <string>Success</string>
+  </object>
+  <object class="org.ncibi.ws.request.RequestStatus">
+   <object class="org.ncibi.task.CTask">
+    <void property="status">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>org.ncibi.task.TaskStatus</class>
+      <string>DONE</string>
+     </object>
+    </void>
+    <void property="uuid">
+     <string>c5951d79-a988-4885-a606-265763e073bd</string>
+    </void>
+   </object>
+   <null/>
+  </object>
+ </object>
+</java>
